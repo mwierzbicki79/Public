@@ -1,0 +1,162 @@
+﻿[
+    {
+        "Name": "Woda",
+        "Unit": "szt",
+        "Category": "Napoje"
+    },
+    {
+        "Name": "Coca-cola",
+        "Unit": "szt",
+        "Category": "Napoje"
+    },
+    {
+        "Name": "Banany",
+        "Unit": "szt",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Borówki",
+        "Unit": "kg",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Cytryny",
+        "Unit": "szt",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Pomarańcze",
+        "Unit": "szt",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Truskawki",
+        "Unit": "kg",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Maliny",
+        "Unit": "kg",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Jabłka",
+        "Unit": "szt",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Gruszki",
+        "Unit": "szt",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Kiwi",
+        "Unit": "szt",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Mandarynki",
+        "Unit": "kg",
+        "Category": "Owoce"
+    },
+    {
+        "Name": "Ziemniaki",
+        "Unit": "kg",
+        "Category": "Warzywa"
+    },
+    {
+        "Name": "Cebula",
+        "Unit": "kg",
+        "Category": "Warzywa"
+    },
+    {
+        "Name": "Marchew",
+        "Unit": "kg",
+        "Category": "Warzywa"
+    },
+    {
+        "Name": "Seler",
+        "Unit": "kg",
+        "Category": "Warzywa"
+    },
+    {
+        "Name": "Włoszczyzna",
+        "Unit": "szt",
+        "Category": "Warzywa"
+    },
+    {
+        "Name": "Ryż",
+        "Unit": "op",
+        "Category": "Makarony i ryże"
+    },
+    {
+        "Name": "Makaron spaghetti",
+        "Unit": "op",
+        "Category": "Makarony i ryże"
+    },
+    {
+        "Name": "Chleb",
+        "Unit": "szt",
+        "Category": "Pieczywo"
+    },
+    {
+        "Name": "Bułki",
+        "Unit": "szt",
+        "Category": "Pieczywo"
+    },
+    {
+        "Name": "Ser żółty",
+        "Unit": "op",
+        "Category": "Nabiał"
+    },
+    {
+        "Name": "Serek wiejski",
+        "Unit": "szt",
+        "Category": "Nabiał"
+    },
+    {
+        "Name": "Twaróg",
+        "Unit": "szt",
+        "Category": "Nabiał"
+    },
+    {
+        "Name": "Szynka",
+        "Unit": "szt",
+        "Category": "Wędlliny"
+    },
+    {
+        "Name": "Kabanosy",
+        "Unit": "szt",
+        "Category": "Wędlliny"
+    },
+    {
+        "Name": "Salami",
+        "Unit": "szt",
+        "Category": "Wędliny"
+    },
+    {
+        "Name": "Pierś kurczaka",
+        "Unit": "kg",
+        "Category": "Mięso"
+    },
+    {
+        "Name": "Mięso mielone wołowe",
+        "Unit": "kg",
+        "Category": "Mięso"
+    },
+    {
+        "Name": "Łosoś",
+        "Unit": "kg",
+        "Category": "Ryby"
+    },
+    {
+        "Name": "Polędwica wołowa",
+        "Unit": "kg",
+        "Category": "Mięso"
+    },
+    {
+        "Name": "Schab",
+        "Unit": "kg",
+        "Category": "Mięso"
+    }
+]
