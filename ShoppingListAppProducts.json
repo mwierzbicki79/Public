@@ -122,12 +122,12 @@
     {
         "name": "Szynka",
         "unit": "szt",
-        "category": "Wędlliny"
+        "category": "Wędliny"
     },
     {
         "name": "Kabanosy",
         "unit": "szt",
-        "category": "Wędlliny"
+        "category": "Wędliny"
     },
     {
         "name": "Salami",
@@ -158,5 +158,25 @@
         "name": "Schab",
         "unit": "kg",
         "category": "Mięso"
+    },
+    {
+        "name": "Morele",
+        "unit": "kg",
+        "category": "Owoce"
+    },
+    {
+        "name": "Brzoskwinie",
+        "unit": "kg",
+        "category": "Owoce"
+    },
+    {
+        "name": "Kalafior",
+        "unit": "szt",
+        "category": "Warzywa"
+    },
+    {
+        "name": "Lipton",
+        "unit": "op",
+        "category": "Herbata"
     }
 ]
